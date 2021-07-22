@@ -2,13 +2,13 @@
 Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 # Apresentação:
-[Ir para a apresentação de slides](https://docs.google.com/presentation/d/1kDnKfTGVjnSzuJHEI79H7WB59ZPi1RFYoc84ttLF-Zs/edit?usp=sharing "Ir para a apresentação de slides")
+> [Ir para a apresentação de slides](https://docs.google.com/presentation/d/1kDnKfTGVjnSzuJHEI79H7WB59ZPi1RFYoc84ttLF-Zs/edit?usp=sharing "Ir para a apresentação de slides")
 
-[Ir para a apresentação do pitch](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "I1")
+> [Ir para a apresentação do pitch](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "I1")
 
-[Ir para a apresentação da demo](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "I2")
+> [Ir para a apresentação da demo](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "I2")
 
-[Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
+> [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
-> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+> 
 
