@@ -10,4 +10,5 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
-=============
+> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+
