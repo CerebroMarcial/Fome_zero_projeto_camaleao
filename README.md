@@ -1,4 +1,5 @@
 ## Fome_zero_projeto_camaleao
+![](https://cdn.discordapp.com/attachments/634439159754391583/867767265436631060/Fome_zero_-_IBM_2.jpg)
 Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 # Apresentação:
