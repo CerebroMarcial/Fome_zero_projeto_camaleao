@@ -53,33 +53,37 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] no fim de tudo, cadastrar
   
 - [ ] ##Ideação do hardware
-  - [ ] Banco de sementes 
+  - [ ] Banco de sementes
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
-  - Quanto custa?
+  - Qual o motivo de ter no hardware? Para ter o que plantar
+  - Quanto custa? 
   - [ ] Sensor de temperatura
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Medir a temperatura local
   - Quanto custa?
-  - [ ] Sensor de clima
+  - [ ] Sensor de luminosidade
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Medir o quanto de luz a planta está recebendo
   - Quanto custa?
   - [ ] Sensor de humidade
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Saber se a agua está realmente está passando pelo canal de tratamento de água ou está entupido
   - Quanto custa?
   - [ ] Boia de nível de agua
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Monitorar o nível de água do sistema
   - Quanto custa?
   - [ ] Canos pvc
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Colocar as mudas ou as sementes em contato com a água corrente
   - Quanto custa?
   - [ ] Suporte dos canos pvc
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Segurar os canos nas laterais do 
+  - Quanto custa?
+  - [ ] Placa de luz solar
+  - Onde colocar?
+  - Qual o motivo de ter no hardware? Conseguir captar energia para fazer o sistema funcionar
   - Quanto custa?
   - [ ] Tampa
   - Onde colocar?
@@ -87,41 +91,44 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - Quanto custa?
   - [ ] Tampa com buracos para oxigenação dos peixes
   -Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Troca de oxigêncio dentro do local onde os peixes ficarão
   - Quanto custa?
   - [ ] Tijolo
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Retirar o da água
   - Quanto custa?
   - [ ] Manta 
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Retirar resíduos da água
   - Quanto custa?
   - [ ] Brita marrrom
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Retirar resíduos da água
   - Quanto custa?
   - [ ] Aquário
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Colocar os peixes que farão adubo
   - Quanto custa?
   - [ ] Caixa de água
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? armazenar a água para fazer o sistema funcionar
   - Quanto custa?
   - [ ] Bomba de água 
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Bombear água contra a gravidade
   - Quanto custa?
   - [ ] Comida de peixe
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Alimentar os animais que adubam as plantas
   - Quanto custa?
   - [ ] Tratamento de água do aquário
   - Onde colocar?
-  - Qual o motivo de ter no hardware?
+  - Qual o motivo de ter no hardware? Tratar o ph da água 
   - Quanto custa?
   - [ ] Sistema CLP
+  - Onde colocar?
+  - Qual o motivo de ter no hardware? Controlar o bom funcionamento do aparelho, autonomia
+  - Quanto custa?
 
 - [ ] ##Desenvolvimento do hardware
   - [ ] Banco de sementes
