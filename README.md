@@ -41,8 +41,7 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
     - [ ] Terminar o mvp
     - [ ] Saber o que mostrar (diferencial competitivo)
 - [ ] Apresentação dos slides
-    - [ ] 
-    - [ ] GFM task list 4-2
+    - [x] Link criado
 - [ ] Repositório
   - [x] Criar repositório
 - [ ] Link da solução
