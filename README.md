@@ -47,60 +47,60 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] Criado
 - [ ] ##Print de confirmação do envio da solução no Call for Code Global
   - [ ] no fim de tudo, cadastrar
-- [x] ##Ideação do hardware
-  - [x] Banco de sementes 
+- [ ] ##Ideação do hardware
+  - [ ] Banco de sementes 
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Sensor de temperatura
+  - [ ] Sensor de temperatura
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Sensor de clima
+  - [ ] Sensor de clima
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Sensor de humidade
+  - [ ] Sensor de humidade
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Boia de nível de agua
+  - [ ] Boia de nível de agua
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Canos pvc
+  - [ ] Canos pvc
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Suporte dos canos pvc
+  - [ ] Suporte dos canos pvc
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Tampa
+  - [ ] Tampa
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Tampa com buracos para oxigenação dos peixes
+  - [ ] Tampa com buracos para oxigenação dos peixes
   -Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Tijolo
+  - [ ] Tijolo
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Manta 
+  - [ ] Manta 
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Brita marrrom
+  - [ ] Brita marrrom
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Aquário
+  - [ ] Aquário
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Caixa de água
+  - [ ] Caixa de água
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
@@ -108,7 +108,7 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
-  - [x] Comida de peixe
+  - [ ] Comida de peixe
   - Onde colocar?
   - Qual o motivo de ter no hardware?
   - Quanto custa?
@@ -117,7 +117,8 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - Qual o motivo de ter no hardware?
   - Quanto custa?
   - [ ] Sistema CLP
-- [x] ##Desenvolvimento do hardware
+
+- [ ] ##Desenvolvimento do hardware
   - [ ] Banco de sementes
 - [ ] ##Desenvolvimento do hardware
   - [ ] 
