@@ -35,18 +35,23 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] Estrutura de custo.
   - [ ] Quem são os concorrentes ?
   - [ ] Pojeção financeira realista 
-  - [ ] 
+
 - [ ] ##Video Demo
     - [ ] Terminar o mvp
     - [ ] Saber o que mostrar (diferencial competitivo)
+ 
 - [ ] ##Apresentação dos slides
     - [x] Link criado
+    
 - [ ] ##Repositório
   - [x] Criar repositório
+  
 - [ ] ##Link da solução
   - [ ] Criado
+ 
 - [ ] ##Print de confirmação do envio da solução no Call for Code Global
   - [ ] no fim de tudo, cadastrar
+  
 - [ ] ##Ideação do hardware
   - [ ] Banco de sementes 
   - Onde colocar?
