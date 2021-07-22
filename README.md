@@ -62,12 +62,12 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [x] Brita marrrom
   - [x] Aquário
   - [x] Caixa de água
-  - [x] Bomba de água
+  - [ ] Bomba de água -[ ] Onde usar
   - [x] Comida de peixe
   - [ ] Tratamento de água do aquário
   - [ ] Sistema CLP
   - [ ] 
 - [x] ##Desenvolvimento do hardware
-  - [] Banco de sementes
+  - [ ] Banco de sementes
 - [ ] ##Desenvolvimento do hardware
   - [ ] 
