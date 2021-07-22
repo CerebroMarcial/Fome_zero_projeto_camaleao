@@ -49,24 +49,74 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] no fim de tudo, cadastrar
 - [x] ##Ideação do hardware
   - [x] Banco de sementes 
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Sensor de temperatura
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Sensor de clima
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Sensor de humidade
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Boia de nível de agua
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Canos pvc
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Suporte dos canos pvc
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Tampa
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Tampa com buracos para oxigenação dos peixes
+  -Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Tijolo
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Manta 
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Brita marrrom
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Aquário
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Caixa de água
-  - [ ] Bomba de água -[ ] Onde usar
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
+  - [ ] Bomba de água 
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [x] Comida de peixe
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [ ] Tratamento de água do aquário
+  - Onde colocar?
+  - Qual o motivo de ter no hardware?
+  - Quanto custa?
   - [ ] Sistema CLP
-  - [ ] 
 - [x] ##Desenvolvimento do hardware
   - [ ] Banco de sementes
 - [ ] ##Desenvolvimento do hardware
