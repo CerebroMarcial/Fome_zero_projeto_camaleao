@@ -11,9 +11,19 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 > [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
-# TO-DO list
+```flow
+st=>start: 用户登陆
+op=>operation: 登陆操作
+cond=>condition: 登陆成功 Yes or No?
+e=>end: 进入后台
 
-- [ ] Video pitch
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+# TO-DO list
+- [ ] ##Video pitch
   - [ ] Estamos sendo objetivos e gastando o tempo bem ?
   - [ ] O nome da sua empresa
   - [ ] O que ela está desenvolvendo
@@ -37,14 +47,38 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] Quem são os concorrentes ?
   - [ ] Pojeção financeira realista 
   - [ ] 
-- [ ] Video Demo
+- [ ] ##Video Demo
     - [ ] Terminar o mvp
     - [ ] Saber o que mostrar (diferencial competitivo)
-- [ ] Apresentação dos slides
+- [ ] ##Apresentação dos slides
     - [x] Link criado
-- [ ] Repositório
+- [ ] ##Repositório
   - [x] Criar repositório
-- [ ] Link da solução
+- [ ] ##Link da solução
   - [ ] Criado
-- [ ] Print de confirmação do envio da solução no Call for Code Global
+- [ ] ##Print de confirmação do envio da solução no Call for Code Global
   - [ ] no fim de tudo, cadastrar
+- [x] ##Ideação do hardware
+  - [x] Banco de sementes 
+  - [x] Sensor de temperatura
+  - [x] Sensor de clima
+  - [x] Sensor de humidade
+  - [x] Boia de nível de agua
+  - [x] Canos pvc
+  - [x] Suporte dos canos pvc
+  - [x] Tampa
+  - [x] Tampa com buracos para oxigenação dos peixes
+  - [x] Tijolo
+  - [x] Manta 
+  - [x] Brita marrrom
+  - [x] Aquário
+  - [x] Caixa de água
+  - [x] Bomba de água
+  - [x] Comida de peixe
+  - [ ] Tratamento de água do aquário
+  - [ ] Sistema CLP
+  - [ ] 
+- [x] ##Desenvolvimento do hardware
+  - [] Banco de sementes
+- [ ] ##Desenvolvimento do hardware
+  - [ ] 
