@@ -14,6 +14,7 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 # TO-DO list
 - [ ] ##Video pitch
   - [ ] Estamos sendo objetivos e gastando o tempo bem ?
+  - [ ] Em quanto tempo o investimento se paga ?
   - [ ] O nome da sua empresa
   - [ ] O que ela está desenvolvendo
   - [ ] Para qual mercado se direciona
