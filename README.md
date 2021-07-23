@@ -16,9 +16,9 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
   - [ ] Estamos sendo objetivos e gastando o tempo bem ?
   - [ ] Em quanto tempo o investimento se paga ?
   - [ ] O nome da sua empresa
-  - [ ] O que ela está desenvolvendo
-  - [ ] Para qual mercado se direciona
-  - [ ] Qual problema ela resolve
+  - [ ] O que ela está desenvolvendo ?
+  - [ ] Para qual mercado se direciona ? Erradicação da fome, usando como modelo o bioma de 
+  - [ ] Qual problema ela resolve ?
   - [ ] Com qual diferencial competitivo ?
   - [ ] Por que você quer criar um pitch?
   - [ ] Para ser mais conhecido?
