@@ -11,6 +11,7 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 > [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
+![](https://cdn.discordapp.com/attachments/866464902898384907/868626927970320414/logo_naice.png)
 # Roadmap:
 
 
