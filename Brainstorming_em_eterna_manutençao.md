@@ -12,14 +12,19 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 > [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
 ![](https://cdn.discordapp.com/attachments/866464902898384907/868626927970320414/logo_naice.png)
-# Roadmap:
+
 
 # Processos do hackathon:
 - [ ] Empatia
-A primeira parte da preparação é saber Empatizar, que é sobre pesquisar e observar em estudos de campo.
-A empatia é a peça central de um processo de Design Centrado no Ser Humano, Human-Centered design, em inglês. 
+
+A primeira parte da preparação é **saber Empatizar**, que é sobre **pesquisar** e **observar** em estudos de campo.
+A empatia é a peça central de um processo de Design Centrado no Ser Humano.
 O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro do contexto de seu desafio de design. 
 É seu esforço entender o modo **como** eles fazem as coisas e **por quê**, suas **necessidades físicas** e **emocionais**, **como** pensam sobre o mundo e **o que é significativo** para eles”
+
+- [ ] Já sei como empatizar
+- [ ] Já pesquisei e observei em estudos de campo
+- [ ] Eu entendo as pessoas do **publico alvo** e estão no contexto da **soluçao**
 
 - [ ] Assistir
 
@@ -33,7 +38,7 @@ O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro 
 # Prototipar
 # Testar
 
-
+# Roadmap:
 
 # TO-DO list
 - [ ] ##Video pitch
