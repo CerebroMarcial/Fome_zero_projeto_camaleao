@@ -16,17 +16,14 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 # Processos do hackathon:
 ## Empatia
-## 
-##
-##
-##
-- [ ] ##Definir
-- [ ] ##Idealizar
-- [ ] ##Prototipar
-- [ ] ##Testar
-
-
-
+### A primeira parte da preparação é saber Empatizar, que é sobre pesquisar e observar em estudos de campo –
+### Assistir
+### Interagir 
+### Ouvir seus usuários
+## Definir
+## Idealizar
+## Prototipar
+## Testar
 
 
 # TO-DO list
