@@ -15,11 +15,11 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 # Roadmap:
 
 # Processos do hackathon:
-- [ ] ## Empatia
-  - [ ] ### 
-  - [ ] ###
-  - [ ] ###
-  - [ ] ###
+## Empatia
+## 
+##
+##
+##
 - [ ] ##Definir
 - [ ] ##Idealizar
 - [ ] ##Prototipar
