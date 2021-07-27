@@ -22,9 +22,15 @@ A empatia é a peça central de um processo de Design Centrado no Ser Humano.
 O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro do contexto de seu desafio de design. 
 É seu esforço entender o modo **como** eles fazem as coisas e **por quê**, suas **necessidades físicas** e **emocionais**, **como** pensam sobre o mundo e **o que é significativo** para eles”
 
-- [ ] Já sei como empatizar
-- [ ] Já pesquisei e observei em estudos de campo
+- [ ] Eu já sei como **empatizar**
+- [ ] Eu já pesquisei e observei em estudos de campo
 - [ ] Eu entendo as pessoas do **publico alvo** e estão no contexto da **soluçao**
+- [ ] Eu entendo como o meu **publico alvo** lida com a dor hoje
+- [ ] Eu entendo o por que o **poblico alvo** lida **dessa forma** hoje
+- [ ] Eu entendo as **necessidades físicas** do meu **publico alvo**
+- [ ] Eu entendo as **necessidades emocionais** do meu **publico alvo**
+- [ ] Eu entendo como o meu **publico alvo** pensa **sobre o mundo** e o que é **significativo** para eles
+- [ ] Eu entendo como o meu **publico alvo** pensa **sobre o mundo** e o que é **importante** para eles
 
 - [ ] Assistir
 
