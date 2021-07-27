@@ -15,10 +15,10 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 # Roadmap:
 
 # Processos do hackathon:
--[ ] Empatia
--[ ] A primeira parte da preparação é saber Empatizar, que é sobre pesquisar e observar em estudos de campo –
--[ ] Assistir
--[ ] Interagir 
+- [ ] Empatia
+- [ ] A primeira parte da preparação é saber Empatizar, que é sobre pesquisar e observar em estudos de campo –
+- [ ] Assistir
+- [ ] Interagir 
 # Ouvir seus usuários
 
 
