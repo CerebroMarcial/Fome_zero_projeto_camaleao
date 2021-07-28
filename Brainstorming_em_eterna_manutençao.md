@@ -52,11 +52,10 @@ O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro 
 - [ ] A solução impacta texnologicamente no publico alvo ? 
 - [ ] A solução impacta socialnente no publico alvo ?
 
-De acordo com Don Norman, fazer perguntas estúpidas não é nada estúpido. No entanto, ideação e Design Thinking não se tratam apenas em desafiar suposições e de fazer perguntas estúpidas.
+# Pesquisar e definir os usuários e suas necessidades nas fases de “Empatia e Definição” e começar a criar as soluções certas para os usuários por meio de métodos de ideação:
 
-Trata-se também de pesquisar e definir os usuários e suas necessidades nas fases de “Empatia e Definição” e começar a criar as soluções certas para os usuários por meio de métodos de ideação:
-
-“Você cria uma ideia para fazer a transição da identificação de problemas para a criação de soluções para seus usuários. Ideação é a sua chance de combinar a compreensão que você tem do espaço do problema e das pessoas para as quais você está projetando com sua imaginação para gerar conceitos de solução. Particularmente no início de um projeto de Design, a ideação consiste em pressionar por um leque de idéias o mais amplo possível a partir do qual você pode selecionar, não simplesmente encontrando uma solução única e melhor”
+Ideação é a sua chance de combinar a compreensão que você tem do espaço do problema e das pessoas para as quais você está projetando com sua imaginação para gerar conceitos de solução. 
+Particularmente no início de um projeto de Design, a ideação consiste em pressionar por um leque de idéias o mais amplo possível a partir do qual você pode selecionar, não simplesmente encontrando uma solução única e melhor”
 (d.school, material de introdução ao Design Thinking)
 
 A d.school celebra o Design Thinking e sem dúvidas podemos dizer que Stanford tem a agradecer e muito os projetos marcantes que foram cocriados e desenvolvidos graças a uma das mais importantes escolas de Design Thinking e modelos mentais disruptivos do mundo.
@@ -214,3 +213,91 @@ A melhor maneira de aprender é pegar a teoria e as técnicas que você aprende 
   - [ ] Banco de sementes
 - [ ] ##Desenvolvimento do hardware
   - [ ] 
+
+# Como criar uma Startup do zero ?
+YouTube, Uber, Airbnb, LinkedIn – todas essas empresas populares começaram como startups. A chave do sucesso foram as ideias originais e a entrada oportuna no mercado. O empreendedorismo está no auge e qualquer um pode começar seu próprio negócio, seja uma confeitaria de bolos, um advogado robô ou lançar uma rede social para colegas de trabalho. Leia como iniciar um negócio do zero e veja o passo a passo neste artigo. No final, um bônus está esperando por você – três novas startups com um alto potencial, de acordo com a “Forbes”.
+
+# Por que começar um negócio do zero?
+Você quer ter seu próprio negócio e não sabe por onde começar? Existem duas opções: desenvolver tudo do zero ou comprar um negócio pronto. Aqui estão três razões pelas quais a primeira opção é a melhor solução para iniciantes.
+
+# 1. Motivação: 
+
+As startups de sucesso começaram com uma ideia: jovens empreendedores criando algo para solucionar algo que lhes faltava. Quando você está envolvido em um negócio adequado aos seus interesses ou experiência, trabalha com mais eficiência e confiança.
+
+# 2. Finanças:
+
+Você está ciente de todos os riscos nos primeiros estágios e decide por si mesmo se investe seu capital, toma emprestado ou atrai investimento. Você pode continuar trabalhando por um tempo até que a startup gere uma renda estável.
+
+# 3. Controle:
+
+você não terá surpresas desagradáveis que podem vir de um antecessor: um empréstimo bancário, problemas de aluguel ou funcionários ineficazes.
+
+Como criar uma Startup do zero: 8 etapas principais
+Determine o seu valor
+Faça uma lista do que você faz de melhor ou do que gosta de fazer. Como iniciar uma startup sem dinheiro? Pense no conhecimento e nas habilidades que você ainda não usou, mas que pode potencialmente monetizar. Por exemplo, você pode organizar viagens ou consegue explicar claramente tópicos complexos.
+
+Faça a si mesmo estas perguntas:
+
+Deseja mudar de negócio ou continuar a crescer na área em que você está trabalhando e familiarizado atualmente?
+Você tem um hobby que pode ser transformado em renda?
+Atualmente você tem conhecimento suficiente ou precisa de treinamento adicional?
+Analise o mercado e selecione um nicho
+Para escolher uma opção de negócio, você precisará analisar o mercado: leve em consideração o ambiente competitivo e o momento ideal do lançamento de um novo produto. Por exemplo, a Uber surgiu durante uma crise econômica, quando as pessoas precisavam de renda extra.
+
+O que fazer:
+
+Crie uma tabela detalhada dos concorrentes, liste os pontos fortes e fracos;
+Teste o nicho escolhido: coloque anúncios na Internet, envie e-mails para clientes em potencial, crie um blog ou uma landing page e rastreie o tráfego;
+Realizar pesquisa de palavras-chave nos motores de busca: analise o número de resultados para suas consultas;
+Realizar pesquisas entre amigos, redes sociais ou fóruns.
+Defina uma proposta de venda exclusiva (USP)
+As vendas não serão eficazes sem uma proposta de venda exclusiva e sem a promoção da marca. Por que as pessoas deveriam escolher você? Qual é a sua proposta especial? Quais benefícios você oferece? O que seus clientes querem e quais problemas eles têm? Respondendo a essas perguntas de maneira breve e clara, você terá a sua USP.
+
+Faça um plano de negócios
+Um plano de negócios é um guia passo a passo para sua startup. Você descreve o produto, a USP, os concorrentes, os mercados, as metas, os cálculos financeiros e a estratégia de marketing.
+
+Dica: não tente fazer um plano de negócios perfeito para cinco anos imediatamente. Um erro comum para iniciantes é se envolver muito no planejamento e não começar a agir. Considere apenas os detalhes que você precisará nos primeiros estágios: que tipo de capital inicial você possui, como e quando planeja obter lucro, se existem muitos concorrentes, qual estratégia de marca você usará, qual é a sua proposta exclusiva de venda. Após alguns meses, analise e ajuste a estratégia.
+
+Cerque-se de profissionais
+Uma equipe forte é um dos fatores de sucesso para uma startup. Você não poderá lidar sozinho com todas as tarefas. Por exemplo, no par de Steve Jobs e Steve Wozniak, o primeiro foi responsável pela promoção e o segundo, pela parte técnica da startup. Onde encontrar membros para a sua equipe:
+
+observe atentamente sua família e amigos;
+peça conselhos aos amigos;
+publique a vaga para o trabalho na Internet: em sites de busca de emprego e em grupos especializados de mídia social.
+Fazer publicidade e buscar clientes
+Como iniciar um negócio? Fale sobre você e atraia clientes. Geralmente, os recursos para iniciantes são limitados, mas isso não deve impedi-lo, porque existem métodos de promoção gratuitos e eficazes. Comece com eles e depois vá para as ferramentas pagas. Use o máximo de canais:
+
+boca a boca;
+redes sociais;
+site, blog ou landing page (página de destino);
+artigos de convidados em blogs e mídia;
+publicidade: direcionada, contextual, rádio ou imprensa;
+participe de eventos temáticos, conheça potenciais parceiros e clientes.
+Os elementos de publicidade são promovidos com os elementos de marca, como um slogan e um logo. Use-os em todos os canais de marketing: coloque o logotipo como imagem de perfil nas redes sociais, o coloque no site e o utilize também em campanhas publicitárias. Você pode criar por conta própria um logo e um slogan (isso exigirá habilidades de edição de fotos e conhecimento em design), pode contratar um designer ou, então, usar um gerador, como o criador de logo online Logaster.
+
+Criar uma base de clientes
+Você já reuniu uma pequena audiência ao seu redor. Agora você precisa conquistar a lealdade dela e manter o interesse na marca. Aqui estão algumas maneiras para isso:
+
+seja ativo nas redes sociais: faça posts regularmente e dê feedback;
+ofereça descontos para clientes regulares;
+organize eventos para os feriados;
+crie um newsletter por e-mail.
+Analise os resultados e dimensione o seu negócio
+Você tem clientes fiéis, uma renda estável e contatos profissionais? É hora de ajustar o seu plano de negócios, condensar o trabalho e definir novas metas.
+
+Analise os erros. Pense no que você não considerou nos primeiros estágios e como corrigir isso.
+
+Registre as suas conquistas. Lembre-se de como conseguiu: você pode usar as técnicas de sucesso no futuro.
+Amplie a equipe. Contrate novos funcionários e delegue tarefas.
+Amplie os negócios. Pergunte como estão os seus concorrentes e se outras startups apareceram no seu nicho. Talvez seja hora de lançar um novo produto, reformular o USP ou alterar sua estratégia de marketing.
+Conclusão
+Ao iniciar uma startup do zero, o principal é realizar uma análise preliminar cuidadosa: escolher um nicho, formular uma USP e fazer um plano de negócios. Essas tarefas podem levar mais de uma semana, mas aumentam muito as chances de sucesso.
+
+Precisa de ideias para inspiração? A cada ano, os analistas da Forbes selecionam as 25 empresas que mais cresceram e estão se aproximando do primeiro bilhão. Aqui estão três startups da lista de 2019:
+
+Chainalysis. O software rastreia como as pessoas usam criptomoedas. Essa tecnologia ajuda a evitar a lavagem de dinheiro e a encontrar criminosos.
+Dave. O aplicativo de contabilidade de despesas alerta aos usuários sobre uma possível entrada no cheque especial. Foi baixado quase 10 milhões de vezes em dois anos.
+Grove Collaborative. É concorrente da Amazon no mercado de comércio eletrônico. Vende apenas produtos naturais – de pasta de dente a enxugador.
+Lembre-se, toda startup é baseada em uma ideia inovadora. Fique de olho nas tendências, observe o futuro e comunique-se ativamente com as pessoas para entender o que está faltando no mercado. Em seguida, siga as oito etapas descritas neste artigo.
+
+* Anatolii Riabyi é profissional de marketing no Logaster.com. Se interessa por tecnologias relacionadas à educação e está sempre pronto para uma nova viagem.
