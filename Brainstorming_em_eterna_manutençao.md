@@ -32,7 +32,54 @@ O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro 
 - [ ] Eu entendo como o meu **publico alvo** pensa **sobre o mundo** e o que é **significativo** para eles
 - [ ] Eu entendo como o meu **publico alvo** pensa **sobre o mundo** e o que é **importante** para eles
 
+- [ ] Eu estou fazendo as **perguntas certas** e **inovar** com um forte foco em seus usuários, suas necessidades e suas percepções sobre eles.
+- [ ] Eu fui além das soluções óbvias e, portanto, **aumentei o potencial de inovação** de sua solução.
+- [ ] Reunir as **perspectivas** e os **pontos fortes** dos membros de sua equipe.
+- [ ] Descobrir **áreas inesperadas de inovação**.
+- [ ] Criar **volume** e **variedade** em suas opções de inovação.
+- [ ] **Tirar as soluções óbvias** de suas cabeças e **conduzir sua equipe além** delas.
+
+Por que precisamos de ideação no Design Thinking?
+Eu dei um passo para trás e refletir sobre por que precisamos desafiar as suposições, fazer perguntas estúpidas e provocar nosso entendimento atual, que é – na verdade – o que métodos de Ideação como Desafios do Desafio, SCAMPER e Provocações nos ajudam a fazer.
+
+- [ ] Onde o foco tem sido centrado demais nas habilidades do ofício e muito pouco em obter uma compreensão mais profunda dos princípios do design, da psicologia humana, da tecnologia e da sociedade. 
+
+# Não resolver problemas sobre os quais não sei muito sem antes **pesquisar no google**.
+
+- [ ]Eu também passei a acreditar que em tal ignorância existe um grande poder: a capacidade de fazer perguntas estúpidas. O que é uma pergunta estúpida? É aquele que questiona o óbvio. “Duh”, pensa a platéia, “essa pessoa não tem noção.” Bem, adivinhe, o óbvio muitas vezes não é tão óbvio.
+Geralmente, refere-se a alguma crença ou prática comum que existe há tanto tempo e que não foi questionada. Uma vez questionada, as pessoas gaguejam para explicar: às vezes elas fracassam. É questionando o óbvio que fazemos um grande progresso.
+É daí que surgem os avanços. Precisamos questionar o óbvio, reformular nossas crenças e redefinir soluções, abordagens e crenças existentes. 
+- [ ] Fiz a **perguntas estúpidas**(colocar abaixo as frases pesquisadas no google).
+- [ ] As pessoas que sabem muito sobre o campo pensam em **questionar** partes dos fundamentos de seu **conhecimento idalizado no produto **?
+- [ ] Eu respondi a pergunta: **"Pessoas de fora da disciplina questionam isso"** ?
+- [ ] Muitas vezes, suas perguntas simplesmente revelam falta de conhecimento, mas isso é certo, é como adquirir o conhecimento. 
+
+
+De acordo com Don Norman, fazer perguntas estúpidas não é nada estúpido. No entanto, ideação e Design Thinking não se tratam apenas em desafiar suposições e de fazer perguntas estúpidas.
+
+Trata-se também de pesquisar e definir os usuários e suas necessidades nas fases de “Empatia e Definição” e começar a criar as soluções certas para os usuários por meio de métodos de ideação:
+
+“Você cria uma ideia para fazer a transição da identificação de problemas para a criação de soluções para seus usuários. Ideação é a sua chance de combinar a compreensão que você tem do espaço do problema e das pessoas para as quais você está projetando com sua imaginação para gerar conceitos de solução. Particularmente no início de um projeto de Design, a ideação consiste em pressionar por um leque de idéias o mais amplo possível a partir do qual você pode selecionar, não simplesmente encontrando uma solução única e melhor”
+(d.school, material de introdução ao Design Thinking)
+
+A d.school celebra o Design Thinking e sem dúvidas podemos dizer que Stanford tem a agradecer e muito os projetos marcantes que foram cocriados e desenvolvidos graças a uma das mais importantes escolas de Design Thinking e modelos mentais disruptivos do mundo.
+
+Ela é uma escola de Design baseada na Universidade de Stanford, em cooperação com o Instituto Hasso Plattner da Universidade de Potsdam.
+
+Apresentaremos como você pode se preparar para sessões de ideação com base na d.school e nas melhores práticas de design e das consultorias da IDEO, uma das mais renomadas empresas que aplicam Design Thinking e projetos de sucesso pelo mundo.
+
+Primeiros passos na aplicação de métodos de ideação
+Facilitação de ideação é uma tarefa desafiadora e complexa.
+
+Exige experiência na compreensão e gestão de equipes, dinâmica de pessoas, adaptabilidade e flexibilidade e uma variedade de outras habilidades sociais, que na realidade são realmente difíceis de dominar.
+
+Dito isto, não há nada como a experiência para ajudá-lo a ser um exímio facilitador do estado da arte da ideação.
+
+A melhor maneira de aprender é pegar a teoria e as técnicas que você aprende com os especialistas, aplicá-las e testá-las em seu próprio contexto e adaptá-las às suas próprias necessidades.
+
 - [ ] Assistir
+
+- [ ] 
 
 - [ ] Interagir 
 
