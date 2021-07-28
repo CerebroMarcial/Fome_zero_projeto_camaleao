@@ -39,21 +39,18 @@ O modo Empatia é o trabalho que você faz para **entender as pessoas**, dentro 
 - [ ] Criar **volume** e **variedade** em suas opções de inovação.
 - [ ] **Tirar as soluções óbvias** de suas cabeças e **conduzir sua equipe além** delas.
 
-Por que precisamos de ideação no Design Thinking?
-Eu dei um passo para trás e refletir sobre por que precisamos desafiar as suposições, fazer perguntas estúpidas e provocar nosso entendimento atual, que é – na verdade – o que métodos de Ideação como Desafios do Desafio, SCAMPER e Provocações nos ajudam a fazer.
-
 - [ ] Onde o foco tem sido centrado demais nas habilidades do ofício e muito pouco em obter uma compreensão mais profunda dos princípios do design, da psicologia humana, da tecnologia e da sociedade. 
 
 # Não resolver problemas sobre os quais não se sabe sem antes **pesquisar no google**.
 
-- [ ]Eu também passei a acreditar que em tal ignorância existe um grande poder: a capacidade de fazer perguntas estúpidas. O que é uma pergunta estúpida? É aquele que questiona o óbvio. “Duh”, pensa a platéia, “essa pessoa não tem noção.” Bem, adivinhe, o óbvio muitas vezes não é tão óbvio.
-Geralmente, refere-se a alguma crença ou prática comum que existe há tanto tempo e que não foi questionada. Uma vez questionada, as pessoas gaguejam para explicar: às vezes elas fracassam. É questionando o óbvio que fazemos um grande progresso.
-É daí que surgem os avanços. Precisamos questionar o óbvio, reformular nossas crenças e redefinir soluções, abordagens e crenças existentes. 
-- [ ] Fiz a **perguntas estúpidas**(colocar abaixo as frases pesquisadas no google).
+- [ ] Fiz a **perguntas estúpidas**(colocar abaixo as frases pesquisadas no google), fazer perguntas estúpidas e necessário para provocar nosso entendimento atual
+- [ ] Questionei o óbvio, reformular nossas crenças e redefinir soluções, abordagens e crenças existentes.
 - [ ] As pessoas que sabem muito sobre o campo pensam em **questionar** partes dos fundamentos de seu **conhecimento idalizado no produto **?
 - [ ] Eu respondi a pergunta: **"Pessoas de fora da disciplina questionam isso"** ?
 - [ ] Muitas vezes, suas perguntas simplesmente revelam falta de conhecimento, mas isso é certo, é como adquirir o conhecimento. 
-
+- [ ] A solução impacta psicologicamente no publico alvo ? 
+- [ ] A solução impacta texnologicamente no publico alvo ? 
+- [ ] A solução impacta socialnente no publico alvo ?
 
 De acordo com Don Norman, fazer perguntas estúpidas não é nada estúpido. No entanto, ideação e Design Thinking não se tratam apenas em desafiar suposições e de fazer perguntas estúpidas.
 
