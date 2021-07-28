@@ -44,7 +44,7 @@ Eu dei um passo para trás e refletir sobre por que precisamos desafiar as supos
 
 - [ ] Onde o foco tem sido centrado demais nas habilidades do ofício e muito pouco em obter uma compreensão mais profunda dos princípios do design, da psicologia humana, da tecnologia e da sociedade. 
 
-# Não resolver problemas sobre os quais não sei muito sem antes **pesquisar no google**.
+# Não resolver problemas sobre os quais não se sabe muito do tema sem antes **pesquisar no google**.
 
 - [ ]Eu também passei a acreditar que em tal ignorância existe um grande poder: a capacidade de fazer perguntas estúpidas. O que é uma pergunta estúpida? É aquele que questiona o óbvio. “Duh”, pensa a platéia, “essa pessoa não tem noção.” Bem, adivinhe, o óbvio muitas vezes não é tão óbvio.
 Geralmente, refere-se a alguma crença ou prática comum que existe há tanto tempo e que não foi questionada. Uma vez questionada, as pessoas gaguejam para explicar: às vezes elas fracassam. É questionando o óbvio que fazemos um grande progresso.
