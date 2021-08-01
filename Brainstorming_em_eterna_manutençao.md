@@ -15,7 +15,40 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 
 # Processos do hackathon:
-# - [ ] Empatia
+
+# Criar um time onde cada um tem uma especialidade 
+- [ ] Negócios 
+- [ ] UX
+- [ ] Desenvolvimento
+
+# Analizar o usuário
+
+- [ ] Quais seus objetivos de vida ?
+- [ ] O que ele ouve dos amigos ?
+- [ ] Onde esse usuário está agora usando sua aplucação?
+- [ ] Onde ele estava antes da sua solução?
+- [ ] Quais seus medos ?
+- [ ] Qual é o país e cultura em que seu usuário está inserido ?
+- [ ] quais os gostos do seu usuário final ?
+- [ ] Qual a idade média do usuário ?
+- [ ] Quais as características físicas do seu usuário ?
+- [ ] Qual o perfil psicológico do seu usuário ?
+- [ ] Qual o ambiente físicas do seu usuário ?
+- [ ] Qual o humor do seu usuário ?
+
+# Analizar o ambiente
+
+- [ ] Qual o tempo de execução da solução atingir o objetivo ?
+- [ ] Como é o ambiente de implementação da solução ?
+- [ ] Qual o objetivo ?
+
+
+# Kambam para pensar nos problemas da solução
+
+Nesse momento cada um vai fazer uma lista de problemas do usuário e da solução e depois de 30 minutos é feita uma outra reunião para cruzar a ideia de todos os envolvidos.
+
+
+# Empatia
 
 A primeira parte da preparação é **saber Empatizar**, que é sobre **pesquisar** e **observar** em estudos de campo.
 A empatia é a peça central de um processo de Design Centrado no Ser Humano.
