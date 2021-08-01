@@ -15,7 +15,7 @@ Projeto de cultura hidropônica autônoma, rentável e eficiente.
 
 
 # Processos do hackathon:
-- [ ] Empatia
+# - [ ] Empatia
 
 A primeira parte da preparação é **saber Empatizar**, que é sobre **pesquisar** e **observar** em estudos de campo.
 A empatia é a peça central de um processo de Design Centrado no Ser Humano.
